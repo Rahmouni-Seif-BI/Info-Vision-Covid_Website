@@ -1,0 +1,4 @@
+Bonsoir 
+
+ Fichier covid.sql et tous les requettes sql  avec Mysqli
+ WampServer !!! 
